@@ -5,7 +5,6 @@ var productos = [
     {nombre: "Cuaderno", precio: 2.00, categoria: "Utiles" },
     {nombre: "Lapiz", precio: 0.25, categoria: "Utiles" },
     {nombre: "Mochila", precio: 15.00, categoria: "Accesorios" },
-
     {nombre: "Mochila", precio: 15.00, categoria: "Accesorios" }
 ];
 
